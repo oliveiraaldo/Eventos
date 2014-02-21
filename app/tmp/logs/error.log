@@ -1,0 +1,162 @@
+2014-02-17 21:20:40 Error: [MissingControllerException] Controller class TesteController could not be found.
+Exception Attributes: array (
+  'class' => 'TesteController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/teste
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-17 22:19:17 Error: [MissingControllerException] Controller class SobreController could not be found.
+Exception Attributes: array (
+  'class' => 'SobreController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/Sobre
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-17 23:19:58 Error: [MissingControllerException] Controller class FdsController could not be found.
+Exception Attributes: array (
+  'class' => 'FdsController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/fds
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-17 23:20:11 Error: [MissingControllerException] Controller class FdsController could not be found.
+Exception Attributes: array (
+  'class' => 'FdsController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/fds
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-17 23:23:35 Error: [MissingControllerException] Controller class SdfController could not be found.
+Exception Attributes: array (
+  'class' => 'SdfController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/sdf
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-17 23:23:42 Error: [MissingControllerException] Controller class SdfController could not be found.
+Exception Attributes: array (
+  'class' => 'SdfController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/sdf
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-17 23:58:40 Error: [MissingControllerException] Controller class SdfController could not be found.
+Exception Attributes: array (
+  'class' => 'SdfController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/sdf
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-18 00:15:26 Error: [MissingControllerException] Controller class SdfController could not be found.
+Exception Attributes: array (
+  'class' => 'SdfController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/sdf
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-18 00:15:47 Error: [MissingControllerException] Controller class SdfController could not be found.
+Exception Attributes: array (
+  'class' => 'SdfController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/sdf
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-18 17:01:51 Error: [MissingControllerException] Controller class ProjetoController could not be found.
+Exception Attributes: array (
+  'class' => 'ProjetoController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/projeto/cake.png
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-18 17:02:12 Error: [MissingControllerException] Controller class ProjetoController could not be found.
+Exception Attributes: array (
+  'class' => 'ProjetoController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/projeto/cake.icon
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-18 17:02:29 Error: [MissingControllerException] Controller class ProjetoController could not be found.
+Exception Attributes: array (
+  'class' => 'ProjetoController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/projeto/pages/img/cake.icon
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-18 17:02:36 Error: [MissingControllerException] Controller class ProjetoController could not be found.
+Exception Attributes: array (
+  'class' => 'ProjetoController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/projeto/img/cake.icon
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-18 17:02:43 Error: [MissingControllerException] Controller class ProjetoController could not be found.
+Exception Attributes: array (
+  'class' => 'ProjetoController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/projeto/pages/cake.icon
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-18 17:03:30 Error: [MissingControllerException] Controller class ProjetoController could not be found.
+Exception Attributes: array (
+  'class' => 'ProjetoController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/projeto/pages/app/webroot/cake.icon
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-18 17:04:14 Error: [MissingControllerException] Controller class ProjetoController could not be found.
+Exception Attributes: array (
+  'class' => 'ProjetoController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/projeto/pages/app/webroot/cake.png
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-18 17:14:28 Error: [MissingControllerException] Controller class ProjetoController could not be found.
+Exception Attributes: array (
+  'class' => 'ProjetoController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/projeto/pages/icon
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-21 17:04:59 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /projeto/webroot/img/destque2.png
+Stack Trace:
+#0 C:\xampp\htdocs\projeto\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
